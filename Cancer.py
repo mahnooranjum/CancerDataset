@@ -11,6 +11,8 @@
 #
 #	Data Source:
 #	https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+#
+#	COMMENT AND UNCOMMENT MODELS ACCORDING TO YOUR NEEDS
 #===========================================================================
 # Importing the libraries
 import numpy as np#Numpy for data importing, array management
